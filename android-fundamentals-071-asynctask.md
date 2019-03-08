@@ -1,3 +1,15 @@
+---
+summary: In this codelab, you’ll build a Progressive Web App, which loads quickly, even on flaky networks, has an icon on the homescreen, and loads as a top-level, full screen experience.
+id: android-fundamentals-asynctask
+category: Android
+environment: android,background-task,asynctask,thread
+status: published
+---
+
+
+
+
+
 # Android Fundamentals 07.1: AsyncTask
 
 ## Selamat Datang
@@ -7,7 +19,7 @@ Codelab ini merupakan bagian dari [Unit 3: Working in the background](https://de
 - Untuk daftar codelabs di kelas ini, silahkan lihat [Codelabs Android Developer Fundamentals (V2)](https://developer.android.com/courses/fundamentals-training/toc-v2).
 - Informasi lebih lengkap tentang kelas, termasuk tautan ke bab-bab konsep, contoh aplikasi, dan slide, silahkan lihat halaman [Android Developer Fundamentals (Versi 2)](https://developer.android.com/courses/fundamentals-training/overview-v2).
 
-> Catatan: Istilah “codelab” dan “praktik” akan sering dipakai secara bergantian tanpa mengubah makna. 
+> **Catatan**: Istilah “codelab” dan “praktik” akan sering dipakai secara bergantian tanpa mengubah makna. 
 
 ## Pendahuluan
 
