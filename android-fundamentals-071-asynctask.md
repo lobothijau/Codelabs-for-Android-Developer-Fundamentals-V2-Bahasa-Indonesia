@@ -71,6 +71,7 @@ Antarmuka SimpleAsyncTask memiliki sebuah Button yang akan memulai sebuah AsyncT
 	`android:layout_margin="16dp"`
 
 4. Buat atau modifikasi atribut TextView Hello World! Untuk memiliki atribut-atribut berikut. Jangan lupa untuk meng-extract string ke dalam file resources. 
+
     | **Attribute**    | **Value**                   |
     | ---------------- | --------------------------- |
     | android:id       | "@+id/textView1”            |
@@ -79,6 +80,7 @@ Antarmuka SimpleAsyncTask memiliki sebuah Button yang akan memulai sebuah AsyncT
 
 5. Hapus atribut  app:layout_constraintRight_toRightOf dan app:layout_constraintTop_toTopOf.
 6. Tambahkan sebuah elemen Button tepat di bawah TextView, lalu berikan atribut berikut. Ekstrak teks Button ke sebuah resource string.
+
     | **Attribute**                        | **Value**        |
     | ------------------------------------ | ---------------- |
     | android:id                           | "@+id/button"    |
